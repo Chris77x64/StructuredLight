@@ -1,0 +1,18 @@
+﻿  DisplayExcercise3.cpp
+C:\Users\chris\source\repos\DisplayExcercise3\DisplayExcercise3\DisplayExcercise3.cpp(1,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "opencv2/imgcodecs.hpp": No such file or directory
+  dump.cpp
+  EdgeDetector.cpp
+C:\Users\chris\source\repos\DisplayExcercise3\DisplayExcercise3\GrayGenerator.h(1,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "opencv2/imgcodecs.hpp": No such file or directory
+  GrayCapture.cpp
+C:\Users\chris\source\repos\DisplayExcercise3\DisplayExcercise3\GrayGenerator.h(1,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "opencv2/imgcodecs.hpp": No such file or directory
+  GrayDecoder.cpp
+C:\Users\chris\source\repos\DisplayExcercise3\DisplayExcercise3\GrayDecoder.cpp(1,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "opencv2/imgcodecs.hpp": No such file or directory
+  GrayEncoder.cpp
+C:\Users\chris\source\repos\DisplayExcercise3\DisplayExcercise3\GrayEncoder.cpp(1,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "opencv2/imgcodecs.hpp": No such file or directory
+  GrayGenerator.cpp
+C:\Users\chris\source\repos\DisplayExcercise3\DisplayExcercise3\GrayGenerator.cpp(1,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "opencv2/imgcodecs.hpp": No such file or directory
+  PGCapture.cpp
+C:\Users\chris\source\repos\DisplayExcercise3\DisplayExcercise3\PGCapture.h(12,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "opencv2/core/core.hpp": No such file or directory
+  TimeMultiplexer.cpp
+C:\Users\chris\source\repos\DisplayExcercise3\DisplayExcercise3\GrayGenerator.h(1,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "opencv2/imgcodecs.hpp": No such file or directory
+  Code wird generiert...
